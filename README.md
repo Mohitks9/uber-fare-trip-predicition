@@ -22,23 +22,7 @@ Random Forest
 Gradient Boosting
 XGBoost
 LightGBM
-Instructions
-Follow the steps below to replicate or extend this project:
 
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/your_username/uber-fare-prediction.git
-Navigate to the Project Directory:
-
-bash
-Copy code
-cd uber-fare-prediction
-Install Dependencies:
-
-Copy code
-pip install -r requirements.txt
 Data Cleaning and EDA:
 
 Review the Jupyter notebooks in the notebooks directory for the data cleaning process and exploratory data analysis.
